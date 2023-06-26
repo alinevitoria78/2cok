@@ -9,8 +9,8 @@ body {
 }
 
 .cabecalho {
-    background-color: #424E61;
-    color: rgb(168, 95, 216);
+    background-color: #8f6aca;
+    color: rgb(251, 250, 252);
     display: flex;
     justify-content: space-around;
     align-items: center;
